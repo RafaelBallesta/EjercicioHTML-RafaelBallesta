@@ -1,0 +1,32 @@
+#Titulo{
+    color: #000000;
+    font-family: Arial;
+    text-align: center;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    align-items: center;
+}
+
+.signo{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button{
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#resultado{
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 20px;
+    color: #000000;
+    margin-top: 25px;
+}
